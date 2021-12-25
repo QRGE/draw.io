@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T09:23:26.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="0Y-5uL5gxuQdmykjBnNb" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T09:36:48.769Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="bUUeRm5TH48WrK2AEao3" version="16.1.0" type="github">
   <diagram id="vTIaXBlFlK6IRFeopUdu" name="Page-1">
-    <mxGraphModel dx="946" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5G-24X-7R-q6YsuBXSK8-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;选题分析和方案设定&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;选题分析和方案设定&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="327" y="114" width="203" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5G-24X-7R-q6YsuBXSK8-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5G-24X-7R-q6YsuBXSK8-1" target="5G-24X-7R-q6YsuBXSK8-3">
@@ -13,8 +13,44 @@
             <mxPoint x="429" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5G-24X-7R-q6YsuBXSK8-3" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-align: justify ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-size: 18pt&quot;&gt;&lt;font face=&quot;隶书&quot;&gt;基于&lt;/font&gt;Web&lt;font face=&quot;隶书&quot;&gt;的智能商用鱼缸远程&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-align: justify ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-size: 18pt&quot;&gt;&lt;font face=&quot;隶书&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 监测和控制软件设计&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="261" y="235" width="335" height="60" as="geometry" />
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="5G-24X-7R-q6YsuBXSK8-3" target="5G-24X-7R-q6YsuBXSK8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-3" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-align: justify ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-size: 18pt&quot;&gt;&lt;font face=&quot;隶书&quot;&gt;基于&lt;/font&gt;Web&lt;font face=&quot;隶书&quot;&gt;的智能商用鱼缸远程&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt ; text-align: justify ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-size: 18pt&quot;&gt;&lt;font face=&quot;隶书&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 监测和控制软件设计&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="261" y="225" width="335" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="5G-24X-7R-q6YsuBXSK8-6" target="5G-24X-7R-q6YsuBXSK8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-6" value="软件整体架构分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="303" y="342" width="251" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-9" value="&amp;nbsp; 业务层: &lt;br&gt;以 Java 基础&lt;br&gt;Spring 框架为核心&lt;br&gt;处理业务数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="336.75" y="467" width="183.5" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-11" value="数据库层:&lt;br&gt;使用Mysql设计数据库&lt;br&gt;进行数据存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="596" y="467" width="183.5" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-12" value="&amp;nbsp; 展示层: &lt;br&gt;Vue 框架为核心&lt;br&gt;使用各种开源组件库&lt;br&gt;进行页面展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="465" width="183.5" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5G-24X-7R-q6YsuBXSK8-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="421" as="sourcePoint" />
+            <mxPoint x="407" y="622" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="169" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5G-24X-7R-q6YsuBXSK8-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="428" y="421" as="sourcePoint" />
+            <mxPoint x="615" y="438" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="688" y="421" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
