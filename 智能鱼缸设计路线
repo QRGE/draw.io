@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T09:36:48.769Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="bUUeRm5TH48WrK2AEao3" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T09:40:17.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="6nRHOIho4vHde4ko6ofP" version="16.1.0" type="github">
   <diagram id="vTIaXBlFlK6IRFeopUdu" name="Page-1">
-    <mxGraphModel dx="1113" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="5G-24X-7R-q6YsuBXSK8-6" value="软件整体架构分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="303" y="342" width="251" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="5G-24X-7R-q6YsuBXSK8-9" target="5G-24X-7R-q6YsuBXSK8-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5G-24X-7R-q6YsuBXSK8-9" value="&amp;nbsp; 业务层: &lt;br&gt;以 Java 基础&lt;br&gt;Spring 框架为核心&lt;br&gt;处理业务数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="336.75" y="467" width="183.5" height="97" as="geometry" />
@@ -49,6 +52,33 @@
             <mxPoint x="615" y="438" as="targetPoint" />
             <Array as="points">
               <mxPoint x="688" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="5G-24X-7R-q6YsuBXSK8-16" target="5G-24X-7R-q6YsuBXSK8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-16" value="代码编写, 测试及优化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="284" y="641" width="288" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-18" value="完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="759" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.437;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5G-24X-7R-q6YsuBXSK8-12" target="5G-24X-7R-q6YsuBXSK8-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="386" y="705" as="sourcePoint" />
+            <mxPoint x="436" y="655" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="158" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5G-24X-7R-q6YsuBXSK8-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5G-24X-7R-q6YsuBXSK8-11" target="5G-24X-7R-q6YsuBXSK8-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="687" as="sourcePoint" />
+            <mxPoint x="460" y="637" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="688" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
